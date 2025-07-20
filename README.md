@@ -4,3 +4,4 @@ A simple and fun Rock,paper,scissors game made with python
 clone to downlod this repo,then run:
 ---bash
 python main.py
+Author-Juboraj islam
